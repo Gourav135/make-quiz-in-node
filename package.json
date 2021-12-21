@@ -1,0 +1,15 @@
+{
+  "name": "quiz",
+  "version": "1.0.0",
+  "description": "This is a quiz where u have to select the right option",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gourav",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^8.3.0",
+    "inquirer": "^8.2.0"
+  }
+}
